@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color: darkblue;
+}
+.back-btn{
+    margin-right: 20px;
+}
+button{
+    border-radius: 10px;
+    background-color: gray;
+    padding: 10px;
+    margin-left: 20px;
+}
+button a{
+    color: white;
+}
